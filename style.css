@@ -1,0 +1,143 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+head {
+  background-color:#495867;
+}
+
+.titulo {
+  background-color:#24303c;
+  text-align: center;
+  font-family: "calibri";
+  color: white;
+}
+
+.titulosec {
+  background-color:#24303c;
+  text-align: center;
+  font-family: "calibri";
+  color: white;
+}
+
+
+body {
+background-color:#495867;
+}
+
+.table{
+  margin-top: -380px;
+  margin-left: 600px;
+  width: 60%;
+  background-color: #24303c;
+  text-align: left;
+  font-family: "calibri";
+  color: white;
+  border-collapse: collapse;
+  float: left;
+}
+
+
+.container{
+  width: 25%;
+  background: #24303c;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  margin-top: -61px;
+  margin-right: 200px;
+  border: 1px solid #1f53c5;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: white;
+  float: left;
+}
+
+
+.boton0 {
+  width: 100%;
+  background: #1f54c5;
+  border: none;
+  padding: 12px;
+  color: white;
+  margin: 16px 0;
+  font-size: 16px;
+}
+
+.boton1 {
+  width: 100%;
+  background: #1f54c5;
+  border: none;
+  padding: 12px;
+  color: white;
+  margin: 16px 0;
+  font-size: 16px;
+}
+.boton2 {
+  width: 100%;
+  background: #c51f1f;
+  border: none;
+  padding: 12px;
+  color: white;
+  margin: 16px 0;
+  font-size: 16px;
+}
+
+.insertar {
+  width: 100%;
+  background: #24303c;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #1f53c5;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: white;
+  float: left;
+}
+
+select {
+  width: 100%;
+  background: #24303c;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  border: 1px solid #1f53c5;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: white;
+}
+
+
+
+tr, th{
+  
+  border: none;
+  padding: 20px;
+  border: 1px solid #1e232b;
+}
+
+thead{
+  background-color: #0f1318;
+}
+
+.container-fluid{
+  width: 60%;
+  background: #24303c;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  margin-top: 15px;
+  margin-left: 600px;
+  border: 1px solid #1f53c5;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: white;
+}
+
+
+
+
